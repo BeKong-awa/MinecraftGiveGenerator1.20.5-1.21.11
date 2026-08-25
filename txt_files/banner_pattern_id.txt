@@ -1,0 +1,43 @@
+底Fully color Field,base
+底横条Base,stripe_bottom
+顶横条Chief,stripe_top
+右竖条Pale Dexter,stripe_left
+左竖条Pale Sinister,stripe_right
+中竖条Pale,stripe_center
+中横条Fess,stripe_middle
+右斜条Bend,stripe_downright
+左斜条Bend Sinister,stripe_downleft
+竖条纹Paly,small_stripes
+斜十字Saltire,cross
+正十字Cross,straight_cross
+右上三角Per Bend Sinister,diagonal_left
+左上三角Per Bend,diagonal_right
+右下三角Per Bend Inverted,diagonal_up_left
+左下三角Per Bend Sinister Inverted,diagonal_up_right
+右半方形Per Pale,half_vertical
+左半方形Per Pale Inverted,half_vertical_right
+上半方形Per Fess,half_horizontal
+下半方形Per Fess Inverted,half_horizontal_bottom
+右底方Base Dexter Canton,square_bottom_left
+左底方Base Sinister Canton,square_bottom_right
+右顶方Chief Dexter Canton,square_top_left
+左顶方Chief Sinister Canton,square_top_right
+底三角Chevron,triangle_bottom
+顶三角Inverted Chevron,triangle_top
+底波纹Base Indented,triangles_bottom
+顶波纹Chief Indented,triangles_top
+圆形Roundel,circle
+菱形Lozenge,rhombus
+方框边Bordure,border
+波纹边Bordure Indented,curly_border
+砖纹Field Masoned,bricks
+自上渐淡Gradient,gradient
+自下渐淡Base Gradient,gradient_up
+苦力怕盾徽Creeper Charge,creeper
+头颅盾徽Skull Charge,skull
+花朵盾徽Flower Charge,flower
+Mojang徽标Thing,mojang
+地球Globe,globe
+猪鼻Snout,piglin
+涡流Flow,flow
+旋风Guster,guster

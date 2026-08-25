@@ -1,0 +1,10 @@
+吃东西（默认）,eat
+喝东西,drink
+无动画,none
+阻挡,block
+拉弓,bow
+开望远镜,spyglass
+拉弩,crossbow
+扔三叉戟,spear
+吹羊角,toot_horn
+用刷子刷方块,brush

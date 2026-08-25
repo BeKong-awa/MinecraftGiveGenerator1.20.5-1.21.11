@@ -1,0 +1,4 @@
+添加效果,apply_effects
+移除效果,remove_effects
+清除所有效果,clear_all_effects
+随机传送（紫颂果）,teleport_randomly
