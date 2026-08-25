@@ -18,6 +18,9 @@
 - **自动补全与搜索**：物品、附魔、方块、实体等下拉框支持输入搜索和模糊匹配。
 - **可滚动标签页**：所有标签页均支持鼠标滚轮滚动，适应不同屏幕大小。
 
+## 下载
+[[Releases](https://github.com/BeKong-awa/MinecraftGiveGenerator1.20.5-1.21.11/releases/tag/1.0.0)]
+
 ## 使用教程
  
 
