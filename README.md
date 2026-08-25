@@ -52,32 +52,32 @@ pyinstaller MinecraftGiveGenerator.spec
 
 ## 目录结构
 
-nbt/
-├── py_files/ # 各功能模块
-│ ├── banner_generator.py
-│ ├── component_mapper.py
-│ ├── equippable_generator.py
-│ ├── fireworks_generator.py
-│ ├── food_generator.py
-│ ├── potion_effects.py
-│ ├── skull_generator.py
-│ ├── tool_generator.py
-│ └── written_book_generator.py
-├── txt_files/ # ID 映射文件（可自行编辑）
-│ ├── banner_pattern_id.txt
-│ ├── block_id.txt
-│ ├── enchant_id.txt
-│ ├── entity_id.txt
-│ ├── equip_sound_id.txt
-│ ├── food_animation_id.txt
-│ ├── food_effect_type_id.txt
-│ ├── food_sound_id.txt
-│ ├── item_id.txt
-│ ├── potion_effect_id.txt
-│ └── potion_effect_numeric_id.txt
-├── give.py # 主程序入口
-├── MinecraftGiveGenerator.spec # PyInstaller 打包配置
-└── command_block.ico # 图标文件
+- nbt/
+- ├── py_files/ # 各功能模块
+- │ ├── banner_generator.py
+- │ ├── component_mapper.py
+- │ ├── equippable_generator.py
+- │ ├── fireworks_generator.py
+- │ ├── food_generator.py
+- │ ├── potion_effects.py
+- │ ├── skull_generator.py
+- │ ├── tool_generator.py
+- │ └── written_book_generator.py
+- ├── txt_files/ # ID 映射文件（可自行编辑）
+- │ ├── banner_pattern_id.txt
+- │ ├── block_id.txt
+- │ ├── enchant_id.txt
+- │ ├── entity_id.txt
+- │ ├── equip_sound_id.txt
+- │ ├── food_animation_id.txt
+- │ ├── food_effect_type_id.txt
+- │ ├── food_sound_id.txt
+- │ ├── item_id.txt
+- │ ├── potion_effect_id.txt
+- │ └── potion_effect_numeric_id.txt
+- ├── give.py # 主程序入口
+- ├── MinecraftGiveGenerator.spec # PyInstaller 打包配置
+- └── command_block.ico # 图标文件
 
 ## 自定义 ID 映射
 
